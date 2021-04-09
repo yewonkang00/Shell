@@ -1,0 +1,10 @@
+total 68
+drwxr-xr-x  2 yewon yewon  4096  4월  1 18:36 .
+drwxr-xr-x 20 yewon yewon  4096  4월  1 18:34 ..
+-rw-------  1 yewon yewon     0  4월  1 18:36 out.txt
+-rwxr-xr-x  1 yewon yewon 13400  4월  1 17:44 simpleshell
+-rw-r--r--  1 yewon yewon  8892  4월  1 17:41 simpleshell.c
+-rwxr-xr-x  1 yewon yewon  8352  4월  1 17:53 test_printf
+-rw-r--r--  1 yewon yewon   119  4월  1 17:52 test_printf.c
+-rwxr-xr-x  1 yewon yewon  8448  4월  1 17:54 test_scanf
+-rw-r--r--  1 yewon yewon   135  4월  1 17:54 test_scanf.c
